@@ -1,6 +1,6 @@
 # Business Analyst
 
-## Goals
+### Goals
 
 ### Education
 
